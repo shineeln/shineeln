@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Shinee. I'm a front-end web developer with having three year of experience.
 - 👀 I'm interested to learn some new and different things. 
-- 🌱 I’m currently learning Python Django framework.
+- 🌱 I’m currently learning Python Django framework, React and React native.
